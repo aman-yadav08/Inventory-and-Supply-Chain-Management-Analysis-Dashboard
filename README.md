@@ -60,3 +60,6 @@ If you want, I can also help you add 3 things that make your GitHub project look
 📊 Project architecture section
 
 📁 Dataset + Power BI file organization (this makes your repo look like a real data project).
+
+<img width="1304" height="735" alt="np3" src="https://github.com/user-attachments/assets/40cc390f-5284-407c-ac10-80004336a0b5" />
+
